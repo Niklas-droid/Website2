@@ -7,8 +7,6 @@
 }
 
 header {
-	padding-top: 50px;	
-	padding-bottom: 10px;	
     height: 80px;
 	text-align: center;
 }
@@ -19,7 +17,6 @@ nav {
 
 nav ul {
 	list-style-type: none;
-	
 }
 
 nav li {
@@ -29,7 +26,6 @@ nav li {
 
 a{
 	color: black;
-	text-decoration: none;
 }
 
 section{
@@ -91,26 +87,8 @@ footer li {
 	display: inline;
 }
 
-footer p { 
 text-align: right;
 margin-right: 20px;
 color: #777;
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
